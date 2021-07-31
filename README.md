@@ -1,0 +1,2 @@
+# myAppSample
+Traversy sample app
