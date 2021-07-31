@@ -1,1 +1,0 @@
-This is a smaple GIT for a video tutorial by Traversy.
